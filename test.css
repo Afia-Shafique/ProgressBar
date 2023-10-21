@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 100px;
+}
+.division{
+    
+    text-align: center;
+    height:50px;
+    width:50px;
+    border:1px solid rgb(78, 104, 123);
+    border-radius: 50px;
+
+}
+#div-1{
+    background-color: rgb(78, 104, 123);
+}
+.line{
+    height: 5px;
+    width:120px;
+    border:1px solid;
+    border-color: rgb(147, 131, 110);
+    background-color:white;
+}
+#button_div{
+    display: flex;
+    justify-content: center;
+    }
+.btn{
+    background-color: rgb(16, 47, 54);
+    border: none;
+    border:2px solid rgb(1, 16, 20);
+    border-radius: 10px;
+    height:40px;
+    width:70px;
+   margin:0px 20px;
+   cursor: pointer;
+   color:white;
+}
+
+.changeColor{
+    background-color: rgb(78, 104, 123);
+}
+
